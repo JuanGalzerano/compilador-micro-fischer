@@ -1,0 +1,4 @@
+inicio
+    leer(%a);
+fin
+
